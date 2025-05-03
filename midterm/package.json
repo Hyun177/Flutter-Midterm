@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "firebase": "^11.6.0"
+  },
+  "scripts": {
+  "lint": "eslint *.mjs ."
+  
+}
+}
